@@ -1,4 +1,4 @@
-Supplementary 
+
 # Malaria Forecasting with ST‑AWXE Ensemble
 
 This repository contains code for predicting malaria case counts using a novel **Spatio‑Temporal Adaptive Weighted Ensemble (ST‑AWXE)**. The model combines four base learners (XGBoost, LightGBM, CatBoost, Random Forest) with adaptive instance‑wise weighting and a Ridge meta‑learner that incorporates country and year features.
